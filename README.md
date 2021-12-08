@@ -30,8 +30,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Andreia-CSS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="center" alt="Andreia-CSS" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img width="5%" height="5%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Andreia-Spring">
   <img width="6%" height="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Andreia-git">
   <img width="3%" height="3%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Andreia-GitHub">
